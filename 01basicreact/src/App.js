@@ -1,8 +1,11 @@
+import Chai from "./Chai";
+
 function App() {
   return (
-    <div>
-      <h1>Hello, world!</h1>
-    </div>
+    <>
+      <Chai />
+      <h4>App is a good component</h4>
+    </>
   );
 }
 
